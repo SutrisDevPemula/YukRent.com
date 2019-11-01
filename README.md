@@ -1,2 +1,0 @@
-# YukRent
-# by Sutrisno
